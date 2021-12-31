@@ -2,7 +2,7 @@
 
 ![Thankful](/public/screenshot.png)
 
-An example application to learn how to use Remix.
+An example application to learn how to use Remix. You can read the associated blog post [here](https://faisal.sh/posts/learning-remix-by-building-gratitude-journal).
 
 ## Tools
 
